@@ -1,0 +1,184 @@
+- card_name: Austere Command
+  card_category: Board Wipe
+- card_name: Alchemist's Refuge
+  card_category: Land
+- card_name: Arcane Signet
+  card_category: Ramp
+- card_name: Bala Ged Recovery // Bala Ged Sanctuary
+  card_category: Land
+- card_name: Banefire
+  card_category: Burn
+- card_name: Blasphemous Act
+  card_category: Board Wipe
+- card_name: Blue Sun's Zenith
+  card_category: Draw
+- card_name: Brainstorm
+  card_category: Draw
+- card_name: Breeding Pool
+  card_category: Land
+- card_name: Chaos Warp
+  card_category: Removal
+- card_name: Comet Storm
+  card_category: Burn
+- card_name: Command Tower
+  card_category: Land
+- card_name: Consider
+  card_category: Draw
+- card_name: Cultivate
+  card_category: Ramp
+- card_name: Deflecting Swat
+  card_category: Control
+- card_name: Dig Through Time
+  card_category: Draw
+- card_name: Disintegrate
+  card_category: Removal
+- card_name: Doppelganger
+  card_category: Copy
+- card_name: Electrodominance
+  card_category: Control
+- card_name: Eternal Witness
+  card_category: Recursion
+- card_name: Exotic Orchard
+  card_category: Land
+- card_name: Explore
+  card_category: Ramp
+- card_name: Faithless Looting
+  card_category: Draw/Discard
+- card_name: Farseek
+  card_category: Ramp
+- card_name: Fierce Guardianship
+  card_category: Control
+- card_name: Forest
+  card_category: Land
+- card_name: Forgotten Cave
+  card_category: Land
+- card_name: Fork
+  card_category: Copy
+- card_name: Frantic Search
+  card_category: Draw
+- card_name: Gitaxian Probe
+  card_category: Draw
+- card_name: Growth Spiral
+  card_category: Ramp
+- card_name: Hinterland Harbor
+  card_category: Land
+- card_name: Ice Storm
+  card_category: Board Wipe
+- card_name: Increasing Vengeance
+  card_category: Burn
+- card_name: Insidious Will
+  card_category: Control
+- card_name: Island
+  card_category: Land
+- card_name: Jeska's Will
+  card_category: Ramp
+- card_name: Ketria Triome
+  card_category: Land
+- card_name: Lightning Bolt
+  card_category: Burn
+- card_name: Mana Drain
+  card_category: Control
+- card_name: Mana Geyser
+  card_category: Ramp
+- card_name: Manamorphose
+  card_category: Ramp/Fixing
+- card_name: Misty Rainforest
+  card_category: Land
+- card_name: Mizzix of the Izmagnus
+  card_category: Combo
+- card_name: Mountain
+  card_category: Land
+- card_name: Narset's Reversal
+  card_category: Control
+- card_name: Nature's Lore
+  card_category: Ramp
+- card_name: Noxious Revival
+  card_category: Recursion
+- card_name: Nykthos, Shrine to Nyx
+  card_category: Land
+- card_name: Opt
+  card_category: Draw
+- card_name: Ponder
+  card_category: Draw
+- card_name: Preordain
+  card_category: Draw
+- card_name: Prismatic Vista
+  card_category: Land
+- card_name: Pull from Tomorrow
+  card_category: Draw
+- card_name: Rampant Growth
+  card_category: Ramp
+- card_name: Regrowth
+  card_category: Recursion
+- card_name: Reiterate
+  card_category: Copy
+- card_name: Rejuvenating Springs
+  card_category: Land
+- card_name: Reliquary Tower
+  card_category: Land
+- card_name: Repeated Reverberation
+  card_category: Copy
+- card_name: Reverberate
+  card_category: Copy
+- card_name: Rootbound Crag
+  card_category: Land
+- card_name: Savage Beating
+  card_category: Burn
+- card_name: Scalding Tarn
+  card_category: Land
+- card_name: Search for Tomorrow
+  card_category: Ramp
+- card_name: Serum Visions
+  card_category: Draw
+- card_name: Shivan Reef
+  card_category: Land
+- card_name: Skyshroud Claim
+  card_category: Ramp
+- card_name: Sleight of Hand
+  card_category: Draw
+- card_name: Snap
+  card_category: Control
+- card_name: Snapcaster Mage
+  card_category: Recursion
+- card_name: Sol Ring
+  card_category: Ramp
+- card_name: Steam Vents
+  card_category: Land
+- card_name: Stomping Ground
+  card_category: Land
+- card_name: Storm King's Thunder
+  card_category: Burn
+- card_name: Storm-Kiln Artist
+  card_category: Combo
+- card_name: Strip Mine
+  card_category: Land Destruction
+- card_name: Stroke of Genius
+  card_category: Draw
+- card_name: Sulfur Falls
+  card_category: Land
+- card_name: Swiftfoot Boots
+  card_category: Protection
+- card_name: Taiga
+  card_category: Land
+- card_name: Three Visits
+  card_category: Ramp
+- card_name: Time Warp
+  card_category: Extra Turn
+- card_name: Tranquil Thicket
+  card_category: Land
+- card_name: Treasure Cruise
+  card_category: Draw
+- card_name: Tropical Island
+  card_category: Land
+- card_name: Twincast
+  card_category: Copy
+- card_name: Urabrask // The Great Work
+  card_category: Planeswalker
+- card_name: Urban Evolution
+  card_category: Ramp
+- card_name: Volcanic Island
+  card_category: Land
+- card_name: Wild Ricochet
+  card_category: Copy
+- card_name: Wooded Foothills
+  card_category: Land
